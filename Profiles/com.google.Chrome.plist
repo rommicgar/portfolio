@@ -34,7 +34,7 @@
 			<array>
 				<dict>
 					<key>name</key>
-					<string>The Corporate School</string>
+					<string>Corporation</string>
 					<key>url</key>
 					<string>https://www.corporation.com</string>
 				</dict>
@@ -49,18 +49,6 @@
 					<string>Corporate Schedule</string>
 					<key>url</key>
 					<string>https://schedule.corporation.com</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>Corporate Library Guide</string>
-					<key>url</key>
-					<string>Corporateschool.libguides.com</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>Corporate Library Catalogues</string>
-					<key>url</key>
-					<string>https://Corporate.follettdestiny.com</string>
 				</dict>
 				<dict>
 					<key>name</key>

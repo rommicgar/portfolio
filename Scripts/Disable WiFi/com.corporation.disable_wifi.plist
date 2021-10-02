@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.corporation.disable_wifi</string>
+    <key>ProgramArguments</key>
+    <array>
+    	<string>/private/var/root/.../disable_wifi.sh</string>
+    </array>
+    <key>StandardOutPath</key>
+    <string>/var/log/disable_wifi.log</string>
+    <key>StandardErrorPath</key>
+    <string>/var/log/disable_wifi.log</string>
+    <key>StartCalendarInterval</key>
+    <dict>
+    	<key>Minute</key>
+    	<integer>59</integer>
+    	<key>Hour</key>
+    	<integer>23</integer>
+    </dict>
+</dict>
+</plist>

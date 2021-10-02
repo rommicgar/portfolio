@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+			<key>AutoFillEnabled</key>
+			<true/>
+			<key>DefaultPluginsSetting</key>
+			<integer>1</integer>
+			<key>DefaultGeolocationSetting</key>
+			<integer>3</integer>
+			<key>DefaultSearchProviderEnabled</key>
+			<true/>
+			<key>DefaultSearchProviderName</key>
+			<string>Google</string>
+			<key>DefaultSearchProviderSearchURL</key>
+			<string>https://www.google.com/search?q=</string>
+			<key>DisablePluginFinder</key>
+			<true/>
+			<key>BookmarkBarEnabled</key>
+			<true/>
+			<key>RestoreOnStartup</key>
+			<integer>4</integer>
+			<key>RestoreOnStartupURLs</key>
+			<array>
+				<string>https://www.corporation.com</string>
+			</array>
+			<key>ShowHomeButton</key>
+			<true/>
+			<key>HomepageLocation</key>
+			<string>https://www.corporation.com</string>
+			<key>EditBookmarksEnabled</key>
+			<true/>
+			<key>ManagedBookmarks</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>The Corporate School</string>
+					<key>url</key>
+					<string>https://www.corporation.com</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Corporate Email</string>
+					<key>url</key>
+					<string>email.corporation.com</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Corporate Schedule</string>
+					<key>url</key>
+					<string>https://schedule.corporation.com</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Corporate Library Guide</string>
+					<key>url</key>
+					<string>Corporateschool.libguides.com</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Corporate Library Catalogues</string>
+					<key>url</key>
+					<string>https://Corporate.follettdestiny.com</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Seesaw</string>
+					<key>url</key>
+					<string>https://web.seesaw.me</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Padlet</string>
+					<key>url</key>
+					<string>https://corporate.padlet.org/dashboard</string>
+				</dict>
+			</array>
+			<key>SafeBrowsingWhitelistDomains</key>
+			<array>
+				<string>corporation.com</string>
+				<string>netsus.corporation.com</string>
+				<string>munkireport.corporation.com</string>
+				<string>munki.corporation.com</string>
+				<string>jss.corporation.com</string>
+			</array>
+			<key>ExtensionInstallBlacklist</key>
+			<array>
+				<string>*</string>
+			</array>
+			<key>ExtensionInstallForcelist</key>
+			<array>
+				<string>cfhdojbkjhnklbpkdaibdccddilifddb</string>
+			</array>
+			<key>DefaultNotificationsSetting</key>
+			<integer>2</integer>
+</dict>
+</plist>
